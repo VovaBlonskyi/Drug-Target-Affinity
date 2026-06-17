@@ -32,44 +32,44 @@
         tissue_dictionary
       molecule_dictionary
             activity_supp
-          component_class
-        component_domains
-             component_go
-       component_synonyms
-        structural_alerts
-       defined_daily_dose
-          product_patents
-   protein_class_synonyms
-                   assays - useful
+           component_class
+         component_domains
+              component_go
+        component_synonyms
+         structural_alerts
+        defined_daily_dose
+           product_patents
+    protein_class_synonyms
+                  **assays** - useful
          compound_records
             binding_sites
-          biotherapeutics
-      compound_properties
+           biotherapeutics
+       compound_properties
 compound_structural_alerts
     **compound_structures** - useful
   molecule_atc_classification
          molecule_hierarchy
           molecule_synonyms
-          target_components
-           target_relations
-                 activities - useful
-            assay_class_map
-           assay_parameters
+           target_components
+            target_relations
+                  **activities** - useful
+             assay_class_map
+            assay_parameters
   biotherapeutic_components
-            drug_indication
-             drug_mechanism
-               drug_warning
+             drug_indication
+              drug_mechanism
+                drug_warning
                formulations
-                 metabolism
-            site_components
-        activity_properties
-          activity_supp_map
-            indication_refs
-                 ligand_eff
-             mechanism_refs
-            metabolism_refs
-   pesticide_classification
-  predicted_binding_domains
-               warning_refs
-    pesticide_class_mapping
-               sqlite_stat1
+                  metabolism
+             site_components
+         activity_properties
+           activity_supp_map
+             indication_refs
+                  ligand_eff
+              mechanism_refs
+             metabolism_refs
+    pesticide_classification
+   predicted_binding_domains
+                warning_refs
+     pesticide_class_mapping
+                sqlite_stat1
