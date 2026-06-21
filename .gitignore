@@ -15,3 +15,9 @@ __pycache__/
 
 # Ignore virtual environments
 venv/
+
+lib/
+bin/
+include/
+conf/
+
