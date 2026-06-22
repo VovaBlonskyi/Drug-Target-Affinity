@@ -12,12 +12,19 @@ This table describes which properties need to be collected for the project
 |**Number of H-bond acceptors**|
 |**TPSA (polar surface area)**|
 |**Number of rotatable bonds**|
-|**Number of aromatic rings**|
+|**Number of carbocyclic and heterocyclic aromatic rings**|
 |**Bond type (single/double/triple/aromatic)**|
 |**Conjugation**|
 |**Ring membership**|
 |**Formal charge**|
 |**Hybridization (sp, sp2, sp3)**|
-|**Aromatic flag (True/False)**|
 
 
+
+## Lipinski Rule of 5
+|Main rules|
+|---|
+|**No more than 5 hydrogen bond donors (mainly nitrogen-hydrogen and oxygen-hydrogen bonds).**|
+|**Not more than 10 hydrogen bond acceptors (mainly oxygen and nitrogen atoms).**|
+|**A molecular weight of less than 500 g/mol.**|
+|**A logP value of less than 5**|
