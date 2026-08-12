@@ -3,23 +3,51 @@
 ## Drug properties💊
 This table describes which properties need to be collected for the project
 
+|Properties names| Data Type | What does this property mean? | Why is this property important? |
+|-|-|-|-|
+|**Morgan fingerprint (2048 bits)**|**vector**|
+|**Molecular weight**|**float**|
+|**LogP (lipophilicity)**|**float**|
+|**Number of H-bond donors**|**integer**|
+|**Number of H-bond acceptors**|**integer**|
+|**TPSA (polar surface area)**|**float**|
+|**Number of rotatable bonds**|**integer**|
+|**Number of carbocyclic and heterocyclic aromatic rings**|**integer**|
+|**Bond type (single/double/triple/aromatic)**|**integer for each**|
+|**Conjugation**|**float**|
+|**Ring membership**|**integer**|
+|**Formal charge**|**signed integer**|
+|**Hybridization (sp, sp2, sp3)**|**integer for each**|
+
+## Protein properties
 |Properties names|
 |---|
-|**Morgan fingerprint (2048 bits)**|
+|**Hydrophobicity**|
+|**Charge**|
+|**Polarity**|
 |**Molecular weight**|
-|**LogP (lipophilicity)**|
-|**Number of H-bond donors**|
-|**Number of H-bond acceptors**|
-|**TPSA (polar surface area)**|
-|**Number of rotatable bonds**|
-|**Number of carbocyclic and heterocyclic aromatic rings**|
-|**Bond type (single/double/triple/aromatic)**|
-|**Conjugation**|
-|**Ring membership**|
-|**Formal charge**|
-|**Hybridization (sp, sp2, sp3)**|
-
-
+|**Volume (side chain)**|
+|**Aromaticity**|
+|**Hydrophilic vs hydrophobic class**|
+|**pKa (side chain)**|
+|**Isoelectric point (pI)**|
+|**Alpha-helix propensity**|
+|**Beta-sheet propensity**|
+|**Turn/coil propensity**|
+|**Flexibility index**|
+|**Solvent accessibility tendency**|
+|**Hydration / solvation tendency**|
+|**Aliphatic vs Aromatic**|
+|**Amino acid composition**|
+|**Group composition**|
+|**k-mer frequencies**|
+|**Positional distribution**|
+|**Autocorrelation features**|
+|**Hydrophobicity variants**|
+|**Bulkiness**|
+|**Refractivity**|
+|**Mutability**|
+|**Contact potential**|
 
 ## Lipinski Rule of 5
 |Main rules|
