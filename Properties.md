@@ -22,32 +22,20 @@ This table describes which properties need to be collected for the project
 ## Protein properties
 |Properties names|
 |---|
-|**Hydrophobicity**|
-|**Charge**|
-|**Polarity**|
-|**Molecular weight**|
-|**Volume (side chain)**|
-|**Aromaticity**|
-|**Hydrophilic vs hydrophobic class**|
-|**pKa (side chain)**|
-|**Isoelectric point (pI)**|
-|**Alpha-helix propensity**|
-|**Beta-sheet propensity**|
-|**Turn/coil propensity**|
-|**Flexibility index**|
-|**Solvent accessibility tendency**|
-|**Hydration / solvation tendency**|
-|**Aliphatic vs Aromatic**|
 |**Amino acid composition**|
-|**Group composition**|
-|**k-mer frequencies**|
-|**Positional distribution**|
-|**Autocorrelation features**|
-|**Hydrophobicity variants**|
-|**Bulkiness**|
-|**Refractivity**|
-|**Mutability**|
-|**Contact potential**|
+|**Dipeptide composition**|
+|**CTD Composition**|
+|**CTD Transition**|
+|**CTD Distribution**|
+|**PAAC**|
+|**APAAC**|
+|**Autocorrelation descriptors**|
+|**Isoelectric point**|
+|**Molecular weight**|
+|**Aromaticity**|
+|**Instability index**|
+|**Aliphatic index**|
+|**GRAVY**|
 
 ## Lipinski Rule of 5
 |Main rules|
