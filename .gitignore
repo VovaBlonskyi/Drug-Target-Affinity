@@ -9,6 +9,7 @@ __pycache__/
 *.tsv
 *.csv
 *.db
+*.parquet
 
 # Ignore environment files
 .env
