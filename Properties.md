@@ -5,7 +5,7 @@ This table describes which properties need to be collected for the project
 
 |Properties names| Data Type | What does this property mean? | Why is this property important? |
 |-|-|-|-|
-|**Morgan fingerprint (2048 bits)**|**vector**|
+|**Morgan fingerprint (2048 bits)**|**vector**|**A 2048-bit representation encoding the presence of molecular substructures around atoms.**|**Gives the model detailed information about molecular structure and functional groups, allowing structurally similar compounds to be recognised.**|
 |**Molecular weight**|**float**|
 |**LogP (lipophilicity)**|**float**|
 |**Number of H-bond donors**|**integer**|
